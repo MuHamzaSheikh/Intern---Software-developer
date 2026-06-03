@@ -74,7 +74,7 @@ Configure these Vercel environment variables for both Production and Preview:
 Live deployments:
 
 - Production: https://impact-admin-dashboard.vercel.app
-- Preview: https://impact-admin-dashboard-9uo2g6bo0-muhamzasheikhs-projects.vercel.app
+- Preview: https://impact-admin-dashboard-9p2u5jd40-muhamzasheikhs-projects.vercel.app
 
 Expected branch workflow:
 
