@@ -71,6 +71,11 @@ Configure these Vercel environment variables for both Production and Preview:
 - `VITE_SUPABASE_URL`
 - `VITE_SUPABASE_ANON_KEY`
 
+Live deployments:
+
+- Production: https://impact-admin-dashboard.vercel.app
+- Preview: https://impact-admin-dashboard-9uo2g6bo0-muhamzasheikhs-projects.vercel.app
+
 Expected branch workflow:
 
 - `development` is the default working branch.
